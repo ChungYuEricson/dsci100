@@ -1,2 +1,2 @@
 # dsci100
-group members: Laura
+group members: Ericson, Laura
