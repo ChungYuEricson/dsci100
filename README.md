@@ -1,2 +1,2 @@
 # dsci100
-group members: Ericson, Laura, Martyna, Sim
+group members: Ericson, Laura, Martyna, Simon
