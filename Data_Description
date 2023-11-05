@@ -10,6 +10,6 @@ thalach	Feature	Integer		maximum heart rate achieved		no
 exang	Feature	Categorical		exercise induced angina		no
 oldpeak	Feature	Integer		ST depression induced by exercise relative to rest		no
 slope	Feature	Categorical				no
-ca	Feature	Integer		number of major vessels (0-3) colored by flourosopy		yes
+ca	Feature	Integer		number of major vessels (0-3) colored by fluoroscopy		yes
 thal	Feature	Categorical				yes
 num	Target	Integer		diagnosis of heart disease		no
